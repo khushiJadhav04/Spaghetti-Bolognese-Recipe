@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Spaghetti Bolognese Recipe</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Spaghetti Bolognese</h1>
+      <p>A classic Italian pasta dish made with rich meat sauce.</p>
+    </header>
+
+    <img src="360_F_240991913_c22j6WvLgpqiUvjaLiLc5rh14WO8jShB.jpg" alt="Spaghetti Bolognese" class="recipe-img" />
+
+    <section class="details">
+      <p><strong>Prep Time:</strong> 15 mins</p>
+      <p><strong>Cook Time:</strong> 45 mins</p>
+      <p><strong>Serves:</strong> 4 people</p>
+    </section>
+
+    <section class="ingredients">
+      <h2>Ingredients</h2>
+      <ul>
+        <li>200g spaghetti</li>
+        <li>2 tbsp olive oil</li>
+        <li>1 onion, chopped</li>
+        <li>2 garlic cloves, minced</li>
+        <li>400g minced beef</li>
+        <li>400g canned tomatoes</li>
+        <li>Salt and pepper to taste</li>
+        <li>Fresh basil (optional)</li>
+      </ul>
+    </section>
+
+    <section class="steps">
+      <h2>Steps</h2>
+      <ol>
+        <li>Boil water and cook the spaghetti until al dente.</li>
+        <li>Heat olive oil in a pan. Add onion and garlic, sauté until soft.</li>
+        <li>Add minced beef and cook until browned.</li>
+        <li>Pour in the canned tomatoes. Simmer for 20–30 minutes.</li>
+        <li>Season with salt, pepper, and basil if using.</li>
+        <li>Drain spaghetti and mix with the sauce. Serve hot!</li>
+      </ol>
+    </section>
+
+    <footer>
+      <p>© 2025 My Recipe Page</p>
+    </footer>
+  </div>
+</body>
+</html>
